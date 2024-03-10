@@ -1,0 +1,4 @@
+{
+  "title": "Input Unrecognized",
+  "message": "The provided image does not match any of the recognized classes. Please ensure that the image content is within the trained categories."
+}

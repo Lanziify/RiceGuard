@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RiceGuard</string>
+    <string name="tag_line">Android App for Disease Identification and Management in Rice Crops</string>
+</resources>

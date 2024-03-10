@@ -1,0 +1,296 @@
+[
+  {
+    "prediction": 0,
+    "disease": "Bacterial Leaf Blight",
+    "description": "Ang bakteryal nga bunga sa dahon usa ka sakit sa humay nga gipasipala sa bakterya nga Xanthomonas oryzae pv. oryzae. Kini maoy usa sa mga labing kritikal nga mga sakit sa humay, nga nagdala og dako nga kadautan sa produksyon sa humay kon dili maayo nga maigo. Ang pagkaigo sa bakteryal nga bunga sa dahon makadaot sa mga dahon sa humay ug mahimo usab nga magpakusog sa pagkalat sa bug-os nga uma kon dili mapugngan sa husto.",
+    "causesHeading": "Mga Hinungdan:",
+    "causes": [
+      {
+        "category": "Kahimtang sa Kalibotan",
+        "details": "Ang mainit ug kahumayan nga mga kahimtang sa palibot magtubo sa pagkalat sa bakterya, labaw na kon adunay kusog nga bagyo o mga pag-ulan."
+      },
+      {
+        "category": "Diretso nga Pagkaigo",
+        "details": "Ang diretsong pagkaigo sa bakterya pinaagi sa tanom nga nahiagom sa maong sakit mao ang usa sa labing panginahanglanon nga mga hinungdan sa pagkalat."
+      },
+      {
+        "category": "Kahimtang sa Tubig",
+        "details": "Mga uma nga nadala sa tubig, mahimo gayud kon mas dali nga magdala sa pagkalat sa sakit, ilabi na kon dili mahuman ang tubig maayo."
+      },
+      {
+        "category": "Mga Abubut sa Tanom",
+        "details": "Ang mga nahisalang mga pundo sa humay gikan sa mga karaang tanom mahimo makabuhi sa bakterya, pagdugang sa katalagman sa pagdumala sa sakit."
+      },
+      {
+        "category": "Mga Teknikal nga Praktis",
+        "details": "Mga di-husto nga teknikal nga praktis sa pagpananom, sama sa paglabay sa mga talinis ug pagtago sa proper nga kagamitan, mahimo magtubo sa pagkalat sa bakterya."
+      }
+    ],
+    "recommendationHeading": "Mga Rekomendasyon:",
+    "recommendations": [
+      {
+        "method": "Mga Bahandi nga Resistant",
+        "details": "Ang pagtanom sa mga bahandi sa humay nga resistant sa bakterya mao ang labing epektibong paagi sa pagdumala. Ang pagsugod sa mga bag-ong bahandi nga adunay genetic nga resistensya sa sakit mahatag og labing maayong proteksyon batok niini."
+      },
+      {
+        "method": "Pagdumala sa Tubig",
+        "details": "Siguruhon nga ang sistema sa paghawa sa tubig maayo ug labing epektibo aron makapugong sa pagkalat sa bakterya pinaagi sa tubig."
+      },
+      {
+        "method": "Seed Treatment",
+        "details": "Ang pagtratar sa mga binhi gamit ang mga disinfectant nga solusyon mahimo makatabang sa pagpugong sa pagpasulod sa sakit sa uma."
+      },
+      {
+        "method": "Crop Rotation",
+        "details": "Ang pag-ilog sa mga tanom alang sa mga pananim nga dili makatampo sa bakterya mahimo magdumala sa kantidad sa bakterya sa uma ug makapugong sa pagkalat sa sakit."
+      },
+      {
+        "method": "Field Sanitation",
+        "details": "Ang paglimpyo sa mga uma, pagpatay sa mga damo, ug pagkuha sa mga basura human sa pananom mahimo makapugong sa pagkabuhi sa bakterya sa uma."
+      },
+      {
+        "method": "Balansihon nga Pataba",
+        "details": "Ang paggamit sa tamang proporsyon sa mga pataba ug abono makapugong sa labaw nga paglambo sa tanom nga mahimo magdumala sa pagkalat sa sakit."
+      },
+      {
+        "method": "Mga Teknikal nga Praktis",
+        "details": "Implementar ang mga teknikal nga praktis sa pagtanom nga naghatag og labing maayong proteksyon batok sa pagkalat sa sakit."
+      }
+    ]
+  },
+  {
+    "prediction": 1,
+    "disease": "Brown Spot",
+    "description": "Ang brown spot usa ka komon nga sakit sa humay nga gipasipala sa fungus nga Bipolaris oryzae. Kini nagdala og mga mubo nga kahayag sa mga dahon sa humay nga nagtukod og mga kayumangging mabugas nga mga spot. Bisag dili kini usa ka dako kaayo nga sakit, kini makahimo gihapon og kadautan sa produksyon sa humay kon dili maayo nga gibanabana.",
+    "causesHeading": "Mga Hinungdan:",
+    "causes": [
+      {
+        "category": "Panahon",
+        "details": "Ang brown spot mas nagdumala panahon sa mga kondisyon nga kahayagan sama sa mainit nga adlaw ug kusog nga pag-ulan. Panahon sa tig-init ug kahumayan ang mas maayong panahon alang sa pagpalapad sa sakit."
+      },
+      {
+        "category": "Humok nga mga Kahimtang",
+        "details": "Ang pahugno nga mga kondisyon, nga dili kaayo kusog ang pag-ulan, mahimo magtubo sa pagkalat sa sakit sa humay. Kini mag-apil sa labing mataas nga mga lugar sa humay sa temperatura ug kahumayan."
+      },
+      {
+        "category": "Nahisala sa Binhi",
+        "details": "Mga binhi nga gibaligya nga may brown spot nga labi nga naigo sa sakit, mahimo nga magdala sa pagkalat sa sakit. Ang pagpili sa mga binhi nga wala'y brown spot ug maayo ang kalidad makapugong sa pagdala sa sakit sa uma."
+      },
+      {
+        "category": "Pakgang sa Tubig",
+        "details": "Mga uma nga naigo sa bagyo o adunay problema sa dalan sa tubig, mahimo nga magdala sa pagkalat sa brown spot. Dili maayo nga pagdumala sa tubig, sama sa sobra nga baha o kawad-on sa tubig, mahimong magpamugos sa pagtubo sa sakit."
+      },
+      {
+        "category": "Daghan nga Humay sa Kalapasan",
+        "details": "Mga uma nga nagtubo sa mga lugar nga adunay daku nga kantidad sa humay sa kalapasan, mahimo nga mas labi nga apektado sa brown spot. Ang paglabay sa mga binhi gikan sa mga uma nga apektado sa sakit mahimong magdala sa brown spot sa mga bag-ong uma."
+      }
+    ],
+    "recommendationHeading": "Mga Rekomendasyon:",
+    "recommendations": [
+      {
+        "method": "Seed Treatment",
+        "details": "Ang pagtratar sa mga binhi gamit ang mga fungisidyo o mga disinfectant nga solusyon mahimo makatabang sa pagpugong sa pagkalat sa sakit sa uma. Ang pagtratar sa mga binhi antes sa pagtanom mahimo nga pugngan ang pagdala sa sakit sa uma."
+      },
+      {
+        "method": "Field Sanitation",
+        "details": "Ang paglimpyo sa mga uma human sa pananom, pagpatay sa mga damo, ug pagkuha sa mga basura makatabang sa pagpugong sa pagkalat sa sakit. Ang pagpanglimpyo sa mga uma makapugong sa pagbalhin sa sakit gikan sa usa ka lugar ngadto sa laing lugar."
+      },
+      {
+        "method": "Pagkontrol sa Tubig",
+        "details": "Siguruhon nga ang sistema sa paghawa sa tubig maayo ug labing epektibo aron makapugong sa pagkalat sa sakit pinaagi sa tubig. Ang hustong pagkontrol sa tubig, ilabi na sa mga kanal ug mga sistema sa irigasyon, makapugong sa pagpamugos sa pagkalat sa brown spot."
+      },
+      {
+        "method": "Resistant Varieties",
+        "details": "Ang pagtanom sa mga bahandi sa humay nga may natural nga resistensya batok sa brown spot makatabang sa pagpugong sa pagdumala sa sakit. Ang pagpili sa mga bahandi nga adunay natural nga resistensya sa sakit makapugong sa daku nga pagkakalat sa brown spot sa uma."
+      },
+      {
+        "method": "Balansihon nga Pataba",
+        "details": "Ang paggamit sa tamang proporsyon sa mga pataba ug abono makapugong sa labaw nga paglambo sa tanom nga mahimo magdumala sa pagkalat sa sakit. Ang hustong paggamit sa mga pataba ug abono makapugong sa daku nga pagka-apekto sa tanom sa sakit."
+      },
+      {
+        "method": "Mga Teknikal nga Praktis",
+        "details": "Implementar ang mga teknikal nga praktis sa pagtanom nga naghatag og labing maayong proteksyon batok sa pagkalat sa sakit. Ang hustong mga praktis sa pagtanom, sama sa distansya sa pagtanom ug regular nga pagpanglunas, makapugong sa pagdala sa brown spot sa uma."
+      },
+      {
+        "method": "Regular Monitoring",
+        "details": "Ang regular nga pagmonitor sa mga uma alang sa sayon nga pagkakita sa mga sintomas ug sayon nga aksyon maayo kaayo alang sa matagumpay nga pagdumala sa sakit. Ang regular nga pagmonitor sa mga uma makapugong sa daku nga pagkalat sa brown spot sa uma ug mahimong maghatag og oportunidad alang sa sayon nga pagkontrol sa sakit."
+      }
+    ]
+  },
+  {
+    "prediction": 2,
+    "disease": "Healthy Leaf",
+    "description": "Ang malungtaron nga dahon sa humay usa ka tanda sa maayong panglawas ug kahimsog sa tanom. Kining mga dahon adunay normal nga kulay, hugaw-free, ug walay mga sintomas sa anumang sakit. Ang maayong panglawas sa dahon mahatag og maayong gibug-aton sa pagtanom ug makapahibalo sa maayong pagdumala sa tanom.",
+    "causesHeading": "Mga Tugkaran sa Malungtaron nga Dahon:",
+    "causes": [
+      {
+        "category": "Normal nga Kulay",
+        "details": "Ang malungtaron nga dahon adunay normal nga kulay alang sa sa gikahayag sa bahandi sa humay. Kini dili kulang sa kolor o labi nga may samot nga pagka-kulay. Ang dahon nga normal ang kulay nagpamatuod nga ang tanom adunay maayo nga panglawas ug maka-absorb og saktong kantidad sa liwan nga panid."
+      },
+      {
+        "category": "Walay Hugaw",
+        "details": "Ang malungtaron nga dahon wala'y mga hugaw sama sa mga bahag, mga tukma, o mga pasa. Ang pagkakalapad-lapad ug kagamay sa mga bahag o hugaw sa mga dahon mahimo nga tanda sa impeksyon o kakulang sa sustansya. Ang hugaw-free nga mga dahon nagpasalig nga ang tanom nagsagol og maayong bunga ug gamit sa mga sustansya sa saktong paagi."
+      },
+      {
+        "category": "Maayo nga Hitsura",
+        "details": "Ang mga dahon adunay husto ug balansihon nga hugaw, dili labi ka lunti o labi ka daghan. Kini adunay maayong hitsura ug hugot nga balod. Ang husto ug balansihon nga hugaw sa mga dahon nagpamatuod sa maayong pag-kinahanglan sa mga sustansya sama sa nitrogen, fosporo, ug potassium."
+      },
+      {
+        "category": "Walay Sintomas sa Sakit",
+        "details": "Ang malungtaron nga dahon wala'y mga sintomas sa anumang sakit sama sa mga galos, mga bunga, o mga spot. Ang mga sintomas sa sakit sa mga dahon, sama sa mga brown spot, mga leaf blast, o mga bacterial leaf blight, nagpamatuod nga ang tanom nahisalang sa sakit ug dili maayo ang iyang panglawas."
+      }
+    ],
+    "recommendationHeading": "Mga Rekomendasyon:",
+    "recommendations": [
+      {
+        "method": "Maayo nga Pag-amoma",
+        "details": "Regular nga pag-amoma sa mga kundisyon sa palibot ug sa humay aron makasiguro sa maayong panglawas sa tanom. Ang regular nga pag-amoma sa tanom makapugong sa mga sakit, maghatag og saktong kantidad sa tubig ug sustansya, ug makapahibalo sa mga problema sa tanom sa labing unang higayon."
+      },
+      {
+        "method": "Balansihon nga Pataba",
+        "details": "Ang tamang paghatag og mga pataba ug abono labing importante alang sa pagtagamtam sa malungtaron nga dahon. Ang saktong pagbalanse sa mga sustansya sama sa nitrogen, fosforo, ug potassium kinahanglanon alang sa maayong panglawas sa tanom ug paglambo sa bunga."
+      },
+      {
+        "method": "Regular nga Pagbantay",
+        "details": "Ang regular nga pagmonitor sa mga dahon ug sa tanom alang sa mga sintomas sa anumang sakit o problema makapahibalo sa maagian nga mga aksyon. Ang labing dali nga pagpanghikot kon makita ang mga problema sa tanom makapugong sa pagkasamad sa ani ug mahatagan og labing maayong panglawas sa tanom."
+      },
+      {
+        "method": "Mga Teknikal nga Praktis",
+        "details": "Pagpatuman sa mga teknikal nga praktis sa pang-agrikultura sama sa tamang pag-abono, pagtatapon sa mga binhi, ug husto nga irigasyon ug drainage. Ang husto nga pagpatuman sa mga teknikal nga praktis maghatag og maayong kondisyon sa palibot ug sa humay, nga mahimo magminimize sa mga problema sa panglawas sa tanom."
+      },
+      {
+        "method": "Maayo nga Pest Control",
+        "details": "Ang regular nga pagkontrol sa mga pesteng sama sa mga insekto ug mga sakit nga nagdala sa mga dahon makapugong sa mga problema sa panglawas sa humay. Ang husto ug epektibong kontrol sa mga pesteng makapugong sa mga sakit ug makapreserba sa maayong panglawas sa tanom."
+      }
+    ]
+  },
+  {
+    "prediction": 3,
+    "disease": "Leaf Blast",
+    "description": "Ang sakit sa dahon nga blast usa ka kritikal nga sakit sa humay nga gipasipala sa fungus nga Magnaporthe oryzae. Kining sakit nagdala og grabe nga kadautan sa mga dahon sa humay, nga makahatag og dako nga epekto sa produksyon sa humay kon dili maayo nga matambalan.",
+    "causesHeading": "Mga Hinungdan:",
+    "causes": [
+      {
+        "category": "Mga Bahandi nga Apektado",
+        "details": "Ang mga dahon sa humay adunay mga spot o mga bulak nga gipunaw sa kulay kay tungod sa pagkaigo sa fungus. Niana, ang mga bahandi nga apektado magpakita og mga bunga nga naglabay ngadto sa pagkahapdos o pagkalayuon sa lugar."
+      },
+      {
+        "category": "Mga Bahandi sa Panalagsang",
+        "details": "Ang mga apektadong bahandi sa humay mahimong makita sa palibot sa panalagsang nga mga uma. Ang pag-usab sa kulay sa mga dahon, gikan sa normal nga berde ngadto sa kayumanggi o pulang, usa ka klaro nga tanda sa pagkalat sa sakit."
+      },
+      {
+        "category": "Pagtubo sa Fungus",
+        "details": "Ang fungus Magnaporthe oryzae nga nagdala sa sakit mahimo nga makita sa mga bahandi sa humay pinaagi sa mga patag nga itom o kayumanggi nga kolor, nga magpalibog sa mga spore sa fungus."
+      }
+    ],
+    "recommendationHeading": "Mga Rekomendasyon:",
+    "recommendations": [
+      {
+        "method": "Paggamit og Resistant nga mga Bahandi",
+        "details": "Pagtanom sa mga bahandi sa humay nga adunay natural nga resistensya batok sa sakit sa dahon nga blast. Kini nga mga bahandi makapugong sa pagdumala sa sakit sa usa ka pagtubo."
+      },
+      {
+        "method": "Regular nga Pagbantay ug Pagkontrol",
+        "details": "Ang regular nga pagmonitor sa mga uma alang sa mga sintomas sa sakit sa dahon, sama sa mga spot ug mga bulak, makatabang sa pagtambal sa sakit sa dakong higayon."
+      },
+      {
+        "method": "Paggamit og Fungisidyo",
+        "details": "Ang paggamit og mga fungisidyo pinaagi sa pagpunit sa pagkalat sa sakit sa dakong higayon. Ang mga fungisidyo gipili ubos sa girekomendang mga kadaghanon ug panghugpong sa pagkakataon sa paghimo."
+      },
+      {
+        "method": "Maayo nga Pagtambal sa Sakit",
+        "details": "Kung nahulog na ang mga dahon sa sakit, ang maayo nga pag-ukbong sa nasira nga mga bahin ug pagdumot sa mga bulak ug mga spot mahimo makatabang sa pagpugong sa pagkalat sa sakit."
+      },
+      {
+        "method": "Pagkontrol sa Panalagsang",
+        "details": "Ang pagkontrol sa panalagsang nga mga uma ug mga nasod nga mga panglimpyo alang sa pagpugong sa pagkalat sa sakit. Ang malimpyo nga mga uma makapugong sa pagkalat sa spore sa fungus."
+      }
+    ]
+  },
+  {
+    "prediction": 5,
+    "disease": "Sheath Blight",
+    "description": "Ang sheath blight usa ka kritikal nga sakit sa humay nga gipasipala sa fungus nga Rhizoctonia solani. Kini nagdala og mga hugaw sa mga sheaths ug mga dahon sa humay, nga mahimong magresulta sa kadautan sa produksyon kon dili maayo nga matambalan.",
+    "causesHeading": "Mga Hinungdan:",
+    "causes": [
+      {
+        "category": "Mga Bahandi nga Apektado",
+        "details": "Ang mga bahandi nga gipasipala sa sheath blight mahimong makita sa mga hugaw sa mga sheaths ug mga dahon sa humay. Kini nagpakita sa pagkaunsa nga ang sakit nag-atake sa mga bahin sa panglawas sa tanom."
+      },
+      {
+        "category": "Mga Tugkaran sa Panalagsang",
+        "details": "Sa kabalayan, ang mga uma nga apektado sa sheath blight mahimong makita pinaagi sa panalagsang nga pagdako sa sakit. Ang mga uma nga dili husto nga binagyo ug maayo nga gama sa kahumayan mas dali nga maapektuhan sa sakit."
+      },
+      {
+        "category": "Hugaw sa Fungus",
+        "details": "Ang fungus Rhizoctonia solani mahimong makita sa mga hugaw sa hugot nga itom o kayumanggi nga kolor, nga nagpakita sa kadautan sa humay."
+      }
+    ],
+    "recommendationHeading": "Mga Rekomendasyon:",
+    "recommendations": [
+      {
+        "method": "Paggamit og Resistant nga mga Bahandi",
+        "details": "Pagtanom sa mga bahandi sa humay nga adunay natural nga resistensya batok sa sheath blight. Kini nga mga bahandi makapugong sa pagdumala sa sakit sa usa ka pagtubo."
+      },
+      {
+        "method": "Regular nga Pagbantay ug Pagkontrol",
+        "details": "Ang regular nga pagmonitor sa mga uma alang sa mga sintomas sa sakit sa dahon, sama sa mga hugaw sa mga sheaths ug mga dahon, makatabang sa pagtambal sa sakit sa dakong higayon."
+      },
+      {
+        "method": "Paggamit og Fungisidyo",
+        "details": "Ang paggamit og mga fungisidyo pinaagi sa pagpunit sa pagkalat sa sakit sa dakong higayon. Ang mga fungisidyo gipili ubos sa girekomendang mga kadaghanon ug panghugpong sa pagkakataon sa paghimo."
+      },
+      {
+        "method": "Maayo nga Pagtambal sa Sakit",
+        "details": "Kon nahulog na ang mga hugaw sa sakit, ang maayo nga pag-ukbong sa nasira nga mga bahin ug pagdumot sa mga hugaw mahimo makatabang sa pagpugong sa pagkalat sa sakit."
+      },
+      {
+        "method": "Pagkontrol sa Panalagsang",
+        "details": "Ang pagkontrol sa panalagsang nga mga uma ug mga nasod nga mga panglimpyo alang sa pagpugong sa pagkalat sa sakit. Ang malimpyo nga mga uma makapugong sa pagkalat sa spore sa fungus."
+      }
+    ]
+  },
+  {
+    "prediction": 6,
+    "disease": "Tungro",
+    "description": "Ang tungro usa ka grabe nga sakit sa humay nga gipasipala sa rice tungro virus (RTV) ug ang rice tungro bacilliform virus (RTBV). Kining sakit nagdala og grabeng epekto sa produksyon sa humay, nga nagresulta sa pagkaubos sa ani kon dili maayo nga matambalan.",
+    "causesHeading": "Mga Hinungdan:",
+    "causes": [
+      {
+        "category": "Pag-uga sa Humay",
+        "details": "Ang mga humay nga naigo sa tungro magpakita og mga sintomas sama sa pagdagan og lapad-lapad nga mga dahon, pagkaguba sa pagbarog sa dahon, ug pagkabug-at sa mga butang."
+      },
+      {
+        "category": "Pagtabang sa Panalagsang",
+        "details": "Sa kabalayan, ang mga panalgasang nga uma nga naigo sa tungro magpakita og pagkadaghan-daghan sa mga humay nga naigo sa sakit. Makita usab ang mga humay nga naigo sa tungro sa panalagsang sa palibot sa uma."
+      },
+      {
+        "category": "Paglabay sa Virus",
+        "details": "Ang mga humay nga naigo sa tungro mahimo nga makita sa mikroskopyo, diin ang virus makita sa ilang mga selula."
+      }
+    ],
+    "recommendationHeading": "Mga Rekomendasyon:",
+    "recommendations": [
+      {
+        "method": "Pag-uga og Resistant nga mga Bahandi",
+        "details": "Ang pagtanom og mga bahandi sa humay nga adunay natural nga resistensya batok sa tungro makapugong sa pagdumala sa sakit. Kini nga mga bahandi makatabang sa pagpugong sa pagtubo sa sakit."
+      },
+      {
+        "method": "Paglantaw ug Pagkontrol sa mga Vector",
+        "details": "Ang mga vector sama sa mga butang ug aphids mahimong magdala sa tungro virus gikan sa usa ka tanom ngadto sa lain. Ang pagkontrol sa populasyon sa mga vector mahimo magpugong sa pagkalat sa sakit."
+      },
+      {
+        "method": "Regular nga Pagbantay ug Pagkontrol",
+        "details": "Ang regular nga pagmonitor sa mga uma alang sa mga sintomas sa sakit sa tungro, sama sa mga dako-dako nga mga dahon ug mga humay nga naigo sa sakit, makatabang sa pagtambal sa sakit sa dakong higayon."
+      },
+      {
+        "method": "Pag-uga og Infected nga mga Tanom",
+        "details": "Kon nahulog na ang mga humay sa sakit, ang pag-ukbong sa nasira nga mga bahin ug pagdumot sa mga bug nga nagdala sa sakit mahimo makatabang sa pagpugong sa pagkalat sa sakit."
+      },
+      {
+        "method": "Pagkontrol sa Panalagsang",
+        "details": "Ang pagkontrol sa panalagsang nga mga uma ug mga nasod nga mga panglimpyo alang sa pagpugong sa pagkalat sa sakit. Ang malimpyo nga mga uma makapugong sa pagkalat sa virus gikan sa usa ka tanom ngadto sa lain."
+      }
+    ]
+  }
+]
